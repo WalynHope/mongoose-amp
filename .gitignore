@@ -1,0 +1,12 @@
+# Dependency directory
+node_modules/
+
+# Environment variables - NEVER commit this file!
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

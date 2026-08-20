@@ -1,0 +1,13 @@
+{
+  "name": "mongoose-checkpoint",
+  "version": "1.0.0",
+  "description": "A guided checkpoint project for handling and managing a MongoDB database using Mongoose",
+  "main": "myApp.js",
+  "scripts": {
+    "start": "node myApp.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
