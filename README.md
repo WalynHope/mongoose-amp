@@ -1,18 +1,7 @@
-﻿# 🍃 Mongoose Checkpoint
+﻿#  Mongoose Checkpoint
 
 A guided checkpoint project demonstrating how to handle and manage a MongoDB database using **Mongoose** ODM (Object Data Modeling) in Node.js.
-
----
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Person Schema](#person-schema)
-- [Operations Covered](#operations-covered)
-- [Getting Started](#getting-started)
-- [Environment Variables](#environment-variables)
-- [Running the App](#running-the-app)
+ 
 
 ---
 
